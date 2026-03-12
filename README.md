@@ -2,6 +2,10 @@
 
 A public portfolio version of an image segmentation desktop tool built with **PyQt6**, **OpenCV**, and **NumPy**.
 
+## Application Preview
+
+![Segmentation Result](assets/screenshots/segmentation-result.png)
+
 ## Features
 
 - Load grayscale or RGB images
