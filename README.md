@@ -4,7 +4,7 @@ A public portfolio version of an image segmentation desktop tool built with **Py
 
 ## Application Preview
 
-![Segmentation Result](assets/screenshots/Segmentation Result.png)
+![Segmentation Result](assets/screenshots/segmentation-result.png)
 
 ## Features
 
