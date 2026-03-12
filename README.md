@@ -45,7 +45,6 @@ source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 python app.py
 ```
-![Segmentation Result](assets/screenshots/Screenshot 2026-03-12 141024.png)
 
 ## Usage
 
